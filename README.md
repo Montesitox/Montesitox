@@ -1,16 +1,27 @@
-## Hi there 👋
+# Daniel Monterrosa
 
-<!--
-**Montesitox/Montesitox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Tecnológico de Costa Rica focused on software development, software quality, and cloud-based systems.
 
-Here are some ideas to get you started:
+Currently working on:
+- Academic quality audit of the EOSDIS Cumulus project
+- Web/mobile educational applications
+- AI behavior systems for Roblox game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Python, Java, C++, JavaScript, Lua
+- React Native, TypeScript
+- MySQL, MongoDB
+- Git, Docker
+
+## Interests
+- Software Quality Assurance
+- Cloud & Distributed Systems
+- Backend Development
+- Game Development
+
+## Featured Projects
+- PIELS Learn – Educational accessibility platform for LESCO/LIBRAS
+- EOSDIS Cumulus – Academic gray-box software quality audit
+- OMPM File Integration System – Centralized document management platform
+
+Contact: daniel.monterrosa.quiros@gmail.com
